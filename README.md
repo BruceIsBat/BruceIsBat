@@ -1,31 +1,31 @@
-# Awotedu Ibrahim Keji (he/him) — Open to Contract & Consulting (Available Now)
+# Ibrahim Keji Awotedu (he/him)
 
-I build production-grade AI systems for industrial and operational problems — turning experiments into measurable, reliable outcomes. I’m actively open to contract, consulting, and short-term engagements.
+ML engineer (early career) with an industrial and production engineering background. I build ML projects around manufacturing and operations problems, with an emphasis on reproducible pipelines, testing and monitoring.
 
-- Role: Production ML Engineer • Industrial AI • ML Reliability
-- Core: Python • PyTorch • FastAPI • Docker • Kubernetes • CI/CD • SQL
-- Strengths: productionization, observability, reproducible pipelines, ML testing, and outcome-driven engineering
-- Contact: awoteduibrahim@gmail.com
-- LinkedIn: https://www.linkedin.com/in/Ibrahim-Awotedu
-- Availability: Immediate — contractor / short-term / 3–6 month engagements preferred
+**Open to:** junior ML/AI engineering roles, internships, and small contract projects.
 
-Why hire me
+## Background
 
-- I convert prototypes into robust, observable systems that deliver measurable impact.
-- I prioritize reproducibility, monitoring, and performance so ML systems remain reliable in production.
-- I partner with product and ops teams to align ML work with clear business outcomes and risk controls.
+- B.Eng. Industrial and Production Engineering, FUTA (2024), Second Class Upper, top 10% of department
+- Fellowships: Google DeepMind (AI Research Foundations), AWS (AI & ML Scholar), Tri AI
+- AI internship at SkillBoost Africa
+- Managed production systems at Razlab Sand & Blocks, so I understand the operational process behind the data
 
-Featured projects
+## What I'm working on
 
-- 90-days-ai-industrial-engineering — evidence-first industrial AI experiments and reproducible pipelines. https://github.com/BruceIsBat/90-days-ai-industrial-engineering
-- sentinel-ledger — concurrent transaction processing with ledger integrity and reliability. https://github.com/BruceIsBat/sentinel-ledger
-- 100-days-of-ml-engineering — pipeline-driven engineering practices from experiments to production. https://github.com/BruceIsBat/100-days-of-ml-engineering
+- **[90-days-ai-industrial-engineering](https://github.com/BruceIsBat/90-days-ai-industrial-engineering)**: a public 90-day research plan applying AI to industrial and production problems, with reproducible experiments.
+- **[sentinel-ledger](https://github.com/BruceIsBat/sentinel-ledger)**: concurrent transaction processing with ledger integrity checks.
+- **[100-days-of-ml-engineering](https://github.com/BruceIsBat/100-days-of-ml-engineering)**: daily ML engineering practice, from experiments toward deployable pipelines.
 
-What I offer contractors & hiring managers
+## Stack
 
-- Rapid assessment and roadmap to production for ML prototypes
-- Implementation of reproducible data pipelines and CI for models
-- Observability, testing, and error-mode analysis for model reliability
-- Short-term engagement: architecture, implementation, or handoff-ready delivery
+- **Used in my projects:** Python, PyTorch, FastAPI, Docker, SQL
+- **Learning:** Kubernetes, CI/CD, model monitoring
 
-If you’re hiring contractors for production ML, industrial AI, or reliability work — email awoteduibrahim@gmail.com or DM on LinkedIn and I’ll reply within 24 hours.
+## Research interests
+
+Smart manufacturing and Industry 4.0, physics-informed ML, cyber-physical systems and industrial IoT, control engineering.
+
+## Contact
+
+awoteduibrahim@gmail.com · [LinkedIn](https://www.linkedin.com/in/ibrahim-awotedu)
