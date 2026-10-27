@@ -94,6 +94,11 @@ Hypotheses and evaluation protocols are preregistered before running experiments
 
 ---
 
+## Beyond code
+
+I write lesson plans and practice drills for ML, maths and physics, and mentor secondary-school students heading to university. Languages: English, Yoruba (native), French and Japanese (intermediate).
+
+
 ## Contact & Profiles
 
 - **Email:** [awoteduibrahim@gmail.com](mailto:awoteduibrahim@gmail.com)
